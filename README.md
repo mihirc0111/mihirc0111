@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/mihirc0111/mihirc0111/blob/eff7d6bc1042b865c1d6d52d01b3a6cccc103c6b/banner.png" alt="logo" width="1000" height="400">
+<img src="https://github.com/mihirc0111/mihirc0111/blob/master/banner2-resize.jpg?raw=true" alt="logo" width="1000" height="400">
 
 <h1 align="center">Hi 👋, I'm Mihir Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
