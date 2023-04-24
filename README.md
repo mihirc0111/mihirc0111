@@ -1,12 +1,6 @@
 
 
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/mihirc0111/mihirc0111/blob/master/banner.mp4?raw=true" type="video/mp4">
-
-</video>
-
-
+[![Video Title](https://github.com/mihirc0111/mihirc0111/blob/master/banner2.jpg?raw=true)](https://drive.google.com/file/d/1IWDkupbCUdm9xGpW44kx4MAkkOaQ0mRY/view)
 
 
 
