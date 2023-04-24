@@ -1,6 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/mihirc0111/mihirc0111/blob/master/banner2.jpg?raw=true" />
+</p>
 
-<img src="https://github.com/mihirc0111/mihirc0111/blob/master/banner2-resize.jpg?raw=true" alt="logo" width="1000" height="400">
 
 <h1 align="center">Hi 👋, I'm Mihir Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
