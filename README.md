@@ -1,7 +1,13 @@
 
-<p align="center">
-  <img src="https://github.com/mihirc0111/mihirc0111/blob/master/banner2.jpg?raw=true" />
-</p>
+
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/mihirc0111/mihirc0111/blob/master/banner.mp4?raw=true" type="video/mp4">
+
+</video>
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Mihir Chavan</h1>
