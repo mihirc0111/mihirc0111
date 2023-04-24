@@ -1,6 +1,10 @@
 
 
-[![Video Title](https://github.com/mihirc0111/mihirc0111/blob/master/banner2.jpg?raw=true)](https://drive.google.com/file/d/1IWDkupbCUdm9xGpW44kx4MAkkOaQ0mRY/view)
+<p align="center">
+  <img src="https://github.com/mihirc0111/mihirc0111/blob/master/banner2.jpg?raw=true" />
+</p>
+
+
 
 
 
